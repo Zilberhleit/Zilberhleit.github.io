@@ -29,8 +29,10 @@
 }
 
 .button-card{
+    position: absolute;
     width: 90px;
     height: 25px;
+    bottom: 20px;
 }
 
 @media all and (max-width: 700px) {
