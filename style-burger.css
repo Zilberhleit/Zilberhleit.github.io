@@ -84,7 +84,7 @@ header{
     color: white;
     text-align: center;
     height: 40px;
-    left: -20px;
+    left: -40px;
 }
 
 #check-menu{display: none;}
@@ -156,7 +156,5 @@ label{
         width: 50px;
     }
 
-    header{
-        text-align: center;
-    }
+
 }
