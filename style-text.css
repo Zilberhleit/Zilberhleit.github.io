@@ -15,6 +15,7 @@ ul, ol{
 
 body{
     background-color: rgb(223, 223, 223);
+    overflow-x: hidden;
 }
 
 main{
