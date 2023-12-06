@@ -3,7 +3,6 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
     color: white;
     font-family: monospace;
 }
@@ -161,4 +160,3 @@ label{
         text-align: center;
     }
 }
-
