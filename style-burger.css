@@ -84,7 +84,7 @@ header{
     color: white;
     text-align: center;
     height: 40px;
-    left: -40px;
+    left: -20px;
 }
 
 #check-menu{display: none;}
@@ -154,6 +154,7 @@ label{
 @media all and (max-width: 768px){
     .wrapper{
         width: 50px;
+        left: -4px;
     }
 
 
